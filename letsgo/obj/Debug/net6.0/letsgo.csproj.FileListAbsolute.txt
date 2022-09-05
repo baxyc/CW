@@ -1,0 +1,15 @@
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/bin/Debug/net6.0/letsgo
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/bin/Debug/net6.0/letsgo.deps.json
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/bin/Debug/net6.0/letsgo.runtimeconfig.json
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/bin/Debug/net6.0/letsgo.dll
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/bin/Debug/net6.0/letsgo.pdb
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.csproj.AssemblyReference.cache
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.AssemblyInfoInputs.cache
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.AssemblyInfo.cs
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.csproj.CoreCompileInputs.cache
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.dll
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/refint/letsgo.dll
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.pdb
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/letsgo.genruntimeconfig.cache
+/Users/lissaprokopenko/Desktop/studies/GBCONTROL/Control/letsgo/obj/Debug/net6.0/ref/letsgo.dll
